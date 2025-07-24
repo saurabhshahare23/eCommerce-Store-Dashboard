@@ -46,8 +46,8 @@ This project presents a detailed data visualization dashboard for eCommerce perf
 4. Analyze and explore insights for business decisions.
 
 ## 📷 Dashboard Preview
+<img width="1246" height="701" alt="Dashboard" src="https://github.com/user-attachments/assets/4cc5f54d-b900-42fe-a3b0-d0c6b5d174a5" />
 
-![Dashboard Screenshot](./Screenshot%202025-07-22%20191808.png)
 
 ---
 
